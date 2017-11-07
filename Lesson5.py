@@ -11,3 +11,4 @@ reduce函数
 
 print filter((lambda x: x > 0), range(-5, 5))
 print reduce(lambda x, y: x + y, [1, 2, 3, 4, 5])
+# reduce是不可取代的。
