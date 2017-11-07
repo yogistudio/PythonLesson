@@ -48,3 +48,15 @@ def log2(msg,ts=None):
         ts=time.time()
     print ts,msg
 log2("test")
+
+'''
+LEGB：对于变量而言，函数定义的默认属性是全局的对象，而不是变量
+Globel变量
+函数体内部如果想用全局变量，可以在函数体内部使用global 变量名
+如
+a=4
+def log():
+    global a
+查找参数时，先找local，然后再找golbal
+'''
+
