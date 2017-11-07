@@ -16,6 +16,10 @@ print astr3[::-2]
 print id(astr3)
 '''
 
+'''
+Date:2017-11-06
+基本类型及基本使用方式
+'''
 # aTuple=tuple('hello')
 # print aTuple
 #
@@ -106,31 +110,48 @@ print id(astr3)
 # [i for i in range[50] if i%3==0]
 
 
-astr='abddaaefaegesge'
-aset=set(astr)
-print {k:astr.count(k) for k in aset}
-#循环不重复字符次数
+# astr='abddaaefaegesge'
+# aset=set(astr)
+# print {k:astr.count(k) for k in aset}
+# #循环不重复字符次数
+#
+# adict={}
+# for i in astr:
+#     if i in adict:
+#         adict[i]+=1
+#     else:
+#         adict[i]=1
+# print adict
+# #循环1次
+#
+# adict={}
+# for i in astr:
+#     adict[i]=adict.get(i,0)+1
+# print adict
+# #循环1次
+#
+# adict={}
+# for i in astr:
+#     adict.setdefault(i,0)
+#     adict[i]+=1
+# print adict
+# #循环1次
+#
+# print Counter(astr)
+#
+# import sys
+# print sys.argv[1:]
+#
+# print sum(float(i)  for i in sys.argv[1:])
 
-adict={}
-for i in astr:
-    if i in adict:
-        adict[i]+=1
-    else:
-        adict[i]=1
-print adict
-#循环1次
+for line in open(r'exec.md'):
+    if line.strip():
+        print line.rstrip('\n')
 
-adict={}
-for i in astr:
-    adict[i]=adict.get(i,0)+1
-print adict
-#循环1次
+afile=open(r'test.txt','w')
+afile.write('test\n')
+afile.close()
 
-adict={}
-for i in astr:
-    adict.setdefault(i,0)
-    adict[i]+=1
-print adict
-#循环1次
-
-print Counter(astr)
+afile=open(r'test.txt','a')
+afile.writelines('test1')
+afile.close()
