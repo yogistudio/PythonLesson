@@ -32,8 +32,8 @@ xiaoming = Person('Xiaoming')
 huahua = Person('Huahua')
 
 print xiaoming
-print huahua.eat()
-print huahua.til
+huahua.eat()
+huahua.til
 
 dm = Person('dm')
 print dm()
