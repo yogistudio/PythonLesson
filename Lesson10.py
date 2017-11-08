@@ -37,3 +37,15 @@ huahua.til
 
 dm = Person('dm')
 print dm()
+
+aNum = raw_input("Please input A: ")
+bNum = raw_input("Please input B: ")
+
+try:
+    sumNum = float(aNum) + float(bNum)
+except ValueError, e:
+    print "Value Error!"
+    print e
+    exit()
+
+print "Sum =", sumNum
