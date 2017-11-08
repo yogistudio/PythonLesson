@@ -21,9 +21,19 @@ class Person(object):
     def __repr__(self):
         return self.name.title()
 
+    def __getattr__(self, item):
+        print item + "not found"
+
+    def __call__(self):
+        return "hello," + self.name
+
 
 xiaoming = Person('Xiaoming')
 huahua = Person('Huahua')
 
 print xiaoming
 print huahua.eat()
+print huahua.til
+
+dm = Person('dm')
+print dm()
