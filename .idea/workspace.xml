@@ -3,61 +3,9 @@
   <component name="ChangeListManager">
     <list id="0cee4d5e-51eb-416b-9fd3-b5b028100d1a" name="New changelist" comment="New changelist" />
     <list default="true" id="ffbd5da6-61d2-44e9-9f04-91858b6c8e29" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/如何成为一名黑客-Eric-S-Raymond.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/analyzeIISLog/u_ex170704.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson14.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson15_numpy1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/analyzeIISLog/AnalyzeIISLog.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/difflib/diff.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/difflib/nginx.conf.v1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/difflib/nginx.conf.v2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/difflib/simple1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/difflib/simple2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/difflib/simple3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/exec.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/a/a1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/a/b/b1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/a/b/b2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/a/b/b3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/a/c/c1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/a/c/c2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/a/d/c1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/a/d/c2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/code/f1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/code/f2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/code/f3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/code/ff/f3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/f1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/f2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/f3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/f4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/f5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir1/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/a/a1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/a/b/b1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/a/b/b2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/a/b/b3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/a/c/c1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/a/c/c2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/a/d/c1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/a/d/c2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/aa/aa1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/code/f1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/code/f2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/code/f3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/code/ff/f3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/f1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/f2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/f3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/f4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/f5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/dir2/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/f1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/f2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/f3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/simple1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/filecmp/simple2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exec/python-exec.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson16_numpy2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson17_pandas1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson18_scipy.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,14 +18,17 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PythonLesson$Lesson5.coverage" NAME="Lesson5 Coverage Results" MODIFIED="1510023219383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLesson$Lesson10.coverage" NAME="Lesson10 Coverage Results" MODIFIED="1510107792984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLesson$Lesson17_pandas1.coverage" NAME="Lesson17_pandas1 Coverage Results" MODIFIED="1510128295592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLesson$Lesson13.coverage" NAME="Lesson13 Coverage Results" MODIFIED="1510110866972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLesson$Lesson2.coverage" NAME="Lesson2 Coverage Results" MODIFIED="1510020388681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLesson$Lesson9.coverage" NAME="Lesson9 Coverage Results" MODIFIED="1510039901580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLesson$simple1.coverage" NAME="simple1 Coverage Results" MODIFIED="1510111106509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exec/difflib" />
+    <SUITE FILE_PATH="coverage/PythonLesson$Lesson16_numpy2.coverage" NAME="Lesson16_numpy2 Coverage Results" MODIFIED="1510128014568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLesson$Lesson12.coverage" NAME="Lesson12 Coverage Results" MODIFIED="1510108779574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLesson$Lesson1.coverage" NAME="Lesson1 Coverage Results" MODIFIED="1509958211897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLesson$imExp.coverage" NAME="imExp Coverage Results" MODIFIED="1510036249498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson8" />
     <SUITE FILE_PATH="coverage/PythonLesson$simple2.coverage" NAME="simple2 Coverage Results" MODIFIED="1510111126080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exec/difflib" />
+    <SUITE FILE_PATH="coverage/PythonLesson$Lesson18_scipy.coverage" NAME="Lesson18_scipy Coverage Results" MODIFIED="1510128905866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLesson$Lesson4.coverage" NAME="Lesson4 Coverage Results" MODIFIED="1510022672072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonLesson$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1510037642011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson8" />
     <SUITE FILE_PATH="coverage/PythonLesson$Lesson15_numpy1.coverage" NAME="Lesson15_numpy1 Coverage Results" MODIFIED="1510124343071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -111,36 +62,44 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Lesson15_numpy1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson15_numpy1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+              <folding>
+                <element signature="e#149#158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="python-exec.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python-exec.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-196">
-              <caret line="1237" column="0" lean-forward="true" selection-start-line="1237" selection-start-column="0" selection-end-line="1237" selection-end-column="0" />
+            <state relative-caret-position="151">
+              <caret line="1276" column="0" lean-forward="false" selection-start-line="1276" selection-start-column="0" selection-end-line="1281" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lesson14.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson14.py">
+      <file leaf-file-name="Lesson17_pandas1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson17_pandas1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
-              <folding>
-                <element signature="e#75#90#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lesson15_numpy1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson15_numpy1.py">
+      <file leaf-file-name="Lesson18_scipy.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson18_scipy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-171">
-              <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-              <folding>
-                <element signature="e#149#158#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -182,6 +141,9 @@
         <option value="$PROJECT_DIR$/exec/filecmp/simple2.py" />
         <option value="$PROJECT_DIR$/Lesson14.py" />
         <option value="$PROJECT_DIR$/Lesson15_numpy1.py" />
+        <option value="$PROJECT_DIR$/Lesson16_numpy2.py" />
+        <option value="$PROJECT_DIR$/Lesson17_pandas1.py" />
+        <option value="$PROJECT_DIR$/Lesson18_scipy.py" />
       </list>
     </option>
   </component>
@@ -263,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lesson15_numpy1">
+  <component name="RunManager" selected="Python.Lesson18_scipy">
     <configuration name="Lesson1" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,24 +240,6 @@
       <module name="PythonLesson" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="Lesson13" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLesson" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,6 +280,60 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="Lesson16_numpy2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLesson" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson16_numpy2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Lesson17_pandas1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLesson" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson17_pandas1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Lesson18_scipy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonLesson" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson18_scipy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="Lesson2" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -354,58 +352,22 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="simple1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exec/difflib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLesson" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exec/difflib/simple1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="simple2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exec/difflib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonLesson" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exec/difflib/simple2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.Lesson1" />
       <item index="1" class="java.lang.String" itemvalue="Python.Lesson2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Lesson13" />
-      <item index="3" class="java.lang.String" itemvalue="Python.simple1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.simple2" />
-      <item index="5" class="java.lang.String" itemvalue="Python.Lesson14" />
-      <item index="6" class="java.lang.String" itemvalue="Python.Lesson15_numpy1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Lesson14" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Lesson15_numpy1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Lesson16_numpy2" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Lesson17_pandas1" />
+      <item index="6" class="java.lang.String" itemvalue="Python.Lesson18_scipy" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Lesson15_numpy1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Lesson14" />
-        <item index="2" class="java.lang.String" itemvalue="Python.simple2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.simple1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Lesson13" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Lesson18_scipy" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Lesson17_pandas1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Lesson16_numpy2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Lesson15_numpy1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Lesson14" />
       </list>
     </recent_temporary>
   </component>
@@ -519,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510120278157</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="11/8">
+      <created>1510125152875</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1510125152876</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -531,10 +500,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29872206" sideWeight="0.49697885" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.49244714" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20996979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399361" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -544,11 +515,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="554" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,35 +582,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lesson6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exec.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5529">
-          <caret line="291" column="24" lean-forward="false" selection-start-line="291" selection-start-column="18" selection-end-line="291" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../StudyPython/python-exec.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13509">
-          <caret line="711" column="11" lean-forward="true" selection-start-line="711" selection-start-column="11" selection-end-line="711" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exec.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5529">
@@ -899,6 +839,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -906,6 +847,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-120">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -913,6 +855,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-28">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -920,6 +863,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -938,11 +882,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-exec.txt">
+    <entry file="file://$PROJECT_DIR$/Lesson14.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-196">
-          <caret line="1237" column="0" lean-forward="true" selection-start-line="1237" selection-start-column="0" selection-end-line="1237" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#75#90#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -954,23 +900,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson14.py">
+    <entry file="file://$PROJECT_DIR$/Lesson15_numpy1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
           <folding>
-            <element signature="e#75#90#0" expanded="true" />
+            <element signature="e#149#158#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson15_numpy1.py">
+    <entry file="file://$PROJECT_DIR$/Lesson16_numpy2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding>
-            <element signature="e#149#158#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="321" column="0" lean-forward="true" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson17_pandas1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-exec.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="1276" column="0" lean-forward="false" selection-start-line="1276" selection-start-column="0" selection-end-line="1281" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson18_scipy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
