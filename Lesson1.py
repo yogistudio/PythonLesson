@@ -1,7 +1,4 @@
 #coding:utf-8
-import copy
-import random
-from collections import Counter
 '''
 astr='    i  like apple'
 astr.split()
